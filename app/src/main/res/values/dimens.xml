@@ -14,4 +14,49 @@
     <dimen name = "spacing_medium_32">32dp</dimen>
     <dimen name = "spacing_large_56">56dp</dimen>
     <dimen name = "spacing_larger_72">72dp</dimen>
+
+
+    <!--baseline_grids-->
+    <dimen name = "baseline_grid_components_8">8dp</dimen>
+    <dimen name = "baseline_grid_toolbar_4">4dp</dimen>
+
+    <!--list-->
+    <!--vertical_spacing-->
+    <dimen name = "list_status_bar_24">24dp</dimen>
+    <dimen name = "list_toolbar_56">56dp</dimen>
+    <dimen name = "list_subtitle_48">48dp</dimen>
+    <dimen name = "list_list_item_72">72dp</dimen>
+    <dimen name = "list_space_between_content_areas_8">8dp</dimen>
+    <!--keylines_and_margins-->
+    <dimen name = "list_edge_left_right_margins_16">16dp</dimen>
+    <dimen name = "list_content_left_margin_72">72dp</dimen>
+    <dimen name = "list_horizontal_margines_16">16</dimen>
+
+    <!--detail_view-->
+    <!--vertical_spacing-->
+    <dimen name = "detail_status_bar_24">24dp</dimen>
+    <dimen name = "detail_toolbar_56">56dp</dimen>
+    <dimen name = "detail_list_item_72">72dp</dimen>
+    <dimen name = "detail_space_between_content_areas_8">8dp</dimen>
+    <!--keylines_and_margins-->
+    <dimen name = "detail_edge_left_right_margins_16">16dp</dimen>
+    <dimen name = "detail_content_left_margin_72">72dp</dimen>
+    <dimen name = "detail_right_side_icons_from_right_edge_32">32dp</dimen>
+
+    <!--navigation_drawer-->
+    <!--vertical_spacing-->
+    <dimen name = "nav_account_menu_list_item_48">48dp</dimen>
+    <dimen name = "nav_space_between_content_areas_8">8dp</dimen>
+    <dimen name = "nav_navigation_right_margin_56">56dp</dimen>
+    <!--keylines_and_margins-->
+    <dimen name = "nav_edge_left_right_margines_16">16dp</dimen>
+    <dimen name = "nav_content_left_margin_72">72dp</dimen>
+    <dimen name = "nav_side_nav_wight_56">56dp</dimen>
+
+    <!--touch_target_size-->
+    <dimen name = "avatar_40">40dp</dimen>
+    <dimen name = "icon_24">24dp</dimen>
+    <dimen name = "touch_target_of_both_48">48dp</dimen>
+    <dimen name = "touch_target_height_48">48dp</dimen>
+    <dimen name = "button_height_36">36dp</dimen>
 </resources>
