@@ -6,6 +6,7 @@
     <dimen name = "size_small_24">24dp</dimen>
     <dimen name = "size_medium_56">56dp</dimen>
     <dimen name = "size_large_72">72dp</dimen>
+    <dimen name = "line_size_1">1dp</dimen>
 
     <!--spaces-->
     <dimen name = "spacing_small_8">8dp</dimen>
@@ -30,7 +31,7 @@
     <!--keylines_and_margins-->
     <dimen name = "list_edge_left_right_margins_16">16dp</dimen>
     <dimen name = "list_content_left_margin_72">72dp</dimen>
-    <dimen name = "list_horizontal_margines_16">16</dimen>
+    <dimen name = "list_horizontal_margines_16">16dp</dimen>
 
     <!--detail_view-->
     <!--vertical_spacing-->
