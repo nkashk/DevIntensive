@@ -49,6 +49,7 @@
     <dimen name = "nav_account_menu_list_item_48">48dp</dimen>
     <dimen name = "nav_space_between_content_areas_8">8dp</dimen>
     <dimen name = "nav_navigation_right_margin_56">56dp</dimen>
+    <dimen name="nav_top_margin_16">16dp</dimen>
     <!--keylines_and_margins-->
     <dimen name = "nav_edge_left_right_margines_16">16dp</dimen>
     <dimen name = "nav_content_left_margin_72">72dp</dimen>
